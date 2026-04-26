@@ -3,4 +3,4 @@
 ### Test 1
 <a href="http://andyscohen.github.io/PCDE-Activity-9.1"> PCDE-Activity-9.1 </a>
 
-<a href="http://andyscohen.github.io/Mini-Lesson-9.4"> Mini-Lesson-9.4</a>
+<a href="[http://andyscohen.github.io/Mini-Lesson-9.4](https://github.com/andyscohen/Mini-Lesson-9.4/tree/main/Mini-Lesson-9.4)"> Mini-Lesson-9.4</a>
